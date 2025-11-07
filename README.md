@@ -8,11 +8,11 @@ The site not only provides essential information about the gym but also includes
 
 ## 📸 Screenshots
 
-*(You can add your screenshots here. Upload your images to the repository and link them like this:)*
 
 | Pricing Plans | Calorie Calculator | Contact Form |
 | :---: |:---:| :---:|
-| ![Pricing Plans](image_fb2dff.jpg) | ![Calorie Calculator](image_fb29a7.png) | ![Contact Form](image_fb2e1f.png) |
+| ![Pricing Plans](![Uploading image.png…]()
+) | ![Calorie Calculator](image_fb29a7.png) | ![Contact Form](image_fb2e1f.png) |
 
 ---
 

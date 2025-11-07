@@ -11,8 +11,7 @@ The site not only provides essential information about the gym but also includes
 
 | Pricing Plans | Calorie Calculator | Contact Form |
 | :---: |:---:| :---:|
-| ![Pricing Plans](![Uploading image.png…]()
-) | ![Calorie Calculator](image_fb29a7.png) | ![Contact Form](image_fb2e1f.png) |
+| ![Pricing Plans]() | ![Calorie Calculator](image_fb29a7.png) | ![Contact Form](image_fb2e1f.png) |
 
 ---
 
